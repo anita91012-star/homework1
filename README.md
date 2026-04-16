@@ -16,5 +16,5 @@
 # AI 新秀 - Homework 2: Titanic
 
 ### Titanic Survival Prediction
-* **Kaggle Score:** 0.77511 (請填入你上傳後實際得到的分數)
+* **Kaggle Score:** 0.77511
 * **技術重點:** 使用 RandomForest 分類器處理乘客特徵，並透過 One-Hot Encoding 轉換性別資料。
