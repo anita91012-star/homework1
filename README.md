@@ -1,4 +1,4 @@
-# homework1
+# homework1_梁芷芸
 # AI 新秀 - Homework 1: 房價預測 (Regression)
 
 ## 實作成果
